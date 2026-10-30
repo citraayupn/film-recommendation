@@ -1,0 +1,4 @@
+pandas
+numpy
+gensim==4.3.1
+scikit-learn
